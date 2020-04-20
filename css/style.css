@@ -14,7 +14,7 @@ body{
   height: 600px;
   margin: auto -15px;
 }
-.logo, .cta{
+.cta{
   max-width: 1400px;
   margin: auto;
 }
