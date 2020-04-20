@@ -60,6 +60,9 @@ body{
 .footer .social-icons i{
   margin-left: 15px
 }
+.footer .social-icons a{
+  color: #ffffff;
+}
 @media (max-width:1100px) {
   .banner{
     background-image: url('https://dnajar2.github.io/demo-code/img/sub-header-sm.jpg');
